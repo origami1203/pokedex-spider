@@ -1,0 +1,9 @@
+.venv
+out
+__pycache__/
+*.pyc
+
+.vscode
+.idea
+/pokedex-spider/pokedex_spider/download/
+*.iml
